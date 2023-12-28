@@ -200,10 +200,10 @@ Page 211:
  * [14] `https://smashed.by/childrensdata` -> https://www.unicef.org/globalinsight/reports/better-governance-childrens-data-manifesto
 
 Page 214:
- * [15] GDPR, Chapter II, Article 8
+ * [15] GDPR, Chapter II, Article 8 -> https://eur-lex.europa.eu/eli/reg/2016/679/oj#art_8
 
 Page 216:
- * [16] GDPR, Recital 65 (link incoming)
+ * [16] GDPR, Recital 65 -> https://gdpr-info.eu/recitals/no-65/
 
 Page 217:
  * [17] `https://smashed.by/childrenprivacy` -> https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act
